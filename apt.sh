@@ -17,6 +17,10 @@ sudo apt-get update
 sudo apt-get install macbuntu-os-icons-v1804
 sudo apt-get install macbuntu-os-ithemes-v1804
 
+# Installation de l'environnement de bureau i3
+
+sudo apt-get install i3
+
 # Installation de la police Soource Code Pro
 
 mkdir tmp
